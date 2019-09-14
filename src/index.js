@@ -1,5 +1,5 @@
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
-
+// test
 var API = 'https://rickandmortyapi.com/api/character/';
 var xhttp = new XMLHttpRequest();
 
